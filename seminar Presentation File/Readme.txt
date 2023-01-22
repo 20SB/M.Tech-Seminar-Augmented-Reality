@@ -1,0 +1,2 @@
+These are zip files. So, download the whole folder and extract it. In between so many files dont get confuse which one to open. Just open the file with extension .zip
+.z01, .z02, ....... these are sub files of .zip file. So, that large files can be stored in github.
